@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"x:\\Coding\\C-progrmming\\LU-Coursework\\B.cpp","tests":[{"id":1727176767884,"input":"3\n3 2 1","output":"Array is sorted in 3 swaps.\nFirst Element: 1\nLast Element: 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"x:\\Coding\\C-progrmming\\LU-Coursework\\B.cpp","group":"local","local":true}
