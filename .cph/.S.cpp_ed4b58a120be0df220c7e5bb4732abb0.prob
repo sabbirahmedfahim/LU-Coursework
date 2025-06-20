@@ -1,1 +1,0 @@
-{"name":"Local: S","url":"x:\\Coding\\C-progrmming\\LU-Coursework\\S.cpp","tests":[{"id":1727214927945,"input":"5 4\n1 2 3 4 5\n","output":"5 1 2 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"x:\\Coding\\C-progrmming\\LU-Coursework\\S.cpp","group":"local","local":true}
