@@ -20,7 +20,7 @@ class AnyClassNameYouWant {
 - do-while, while, for-loop is similar with c++ syntax
 
 ## OOP Concepts
-code tho dekho
+- [code tho dekho](https://github.com/sabbirahmedfahim/LU-Coursework/blob/main/Sem_5_Year_2/Java_For_Programmers_in_2_hours/2_OOP/1/arekta.java)
 
 ---
 
